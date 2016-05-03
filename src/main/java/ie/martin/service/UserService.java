@@ -7,7 +7,9 @@ import ie.martin.model.UserDet;
  */
 public interface UserService {
 
+    void getURIs();
+
     UserDet createUser(UserDet u);
-    UserDet getPortfolio();
+    UserDet getPortfolio(String username);
 
 }

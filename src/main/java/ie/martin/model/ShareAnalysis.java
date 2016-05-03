@@ -7,8 +7,6 @@ public class ShareAnalysis {
 
     private Share share;
 
-  //  private String name;
-  //  private String value;
     private String percentageChange;
     private String changeFrom50DayWorkingAvg;
     private String changeFrom200DayWorkingAvg;

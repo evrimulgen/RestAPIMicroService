@@ -12,6 +12,16 @@ public class RequestObject implements Serializable{
 
         public UserDet user = null;
 
+        public CheckedItem check = null;
+
+        public CheckedItem getCheck() {
+                return check;
+        }
+
+        public void setCheck(CheckedItem check) {
+                this.check = check;
+        }
+
         public UserDet getUser() {
                 return user;
         }

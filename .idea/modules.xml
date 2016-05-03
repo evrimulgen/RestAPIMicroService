@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestAPIMicroService.iml" filepath="$PROJECT_DIR$/RestAPIMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAPIMicroService.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAPIMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAPIMicroService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAPIMicroService_main.iml" group="RestAPIMicroService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAPIMicroService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAPIMicroService_test.iml" group="RestAPIMicroService" />
     </modules>
   </component>
 </project>
